@@ -1,0 +1,14 @@
+numpy
+pandas
+seaborn
+category-encoders
+streamlit
+scikit-learn
+imbalanced-learn
+tpot
+jupyter
+yellowbrick
+sweetviz
+imblearn
+tpot
+lightgbm
